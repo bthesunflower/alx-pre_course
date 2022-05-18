@@ -1,1 +1,1 @@
-directory 1
+directory
